@@ -12,7 +12,7 @@ package _01_PassiveReference;
  *         ldc : 将 int float 或 String类型的`常量值`从常量池中推送至栈顶
  *         bipush: 将 单字节(-128-127)的常量值推送至栈顶
  *         sipush: 将 短整型常量值(-32768-32767)推送至栈顶
- *         iconst_1: 将int类型1推送至栈顶 (最多到5)
+ *         iconst_1: 将int类型1推送至栈顶 (-1到5)
  *
  * @author Qing
  * @version 1.0
